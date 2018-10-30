@@ -41,6 +41,7 @@ figcaption {
 
 #logo {
   background-color: aqua;
+  font-size: 2em;
 }
 
 /* Descendant Selector*/
